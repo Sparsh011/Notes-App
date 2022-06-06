@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464338567482",
+    "project_id": "notes-app-cfb24",
+    "storage_bucket": "notes-app-cfb24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464338567482:android:7b8ae4c1e87ba820631003",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464338567482-na5ge1sovvuo11qlb5o7tmh93bkr7a0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaPf_MrSI3TTk2-O0UHnWa2ZoCVHygJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464338567482-na5ge1sovvuo11qlb5o7tmh93bkr7a0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
